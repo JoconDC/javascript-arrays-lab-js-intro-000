@@ -28,6 +28,6 @@ function appendKitten() {
 }
 
 function prependKitten(name) {
-  const forwardKitten = 
-  return forwardKitten;
-}
+    const forwardKitten = "Arnold";
+    return [forwardKitten, ...kittens];
+  }
