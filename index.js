@@ -36,3 +36,8 @@ function removeLastKitten() {
     const removeKitten = kittens.slice(0, 2);
     return removeKitten;
 }
+
+function removeFirstKitten() {
+    const forwardKitten = kittens.slice(1, 3);
+    return forwardKitten;
+ }
