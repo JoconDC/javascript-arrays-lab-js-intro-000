@@ -28,5 +28,6 @@ function appendKitten() {
 }
 
 function prependKitten(name) {
-  
+  const forwardKitten = 
+  return forwardKitten;
 }
