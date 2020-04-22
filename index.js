@@ -26,3 +26,7 @@ function appendKitten() {
     const addKitten = kittens.concat("Broom");
     return addKitten;
 }
+
+function prependKitten(name) {
+  
+}
